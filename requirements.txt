@@ -8,4 +8,4 @@ requests
 bs4
 cinemagoer
 heroku3
-aiohttp==3.
+aiohttp=
